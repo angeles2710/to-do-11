@@ -8,11 +8,11 @@
     "axios": "0.27.2",
     "dns": "0.2.2",
     "fetch": "1.1.0",
-    "react": "16.7.0-alpha.2",
-    "react-dom": "16.7.0-alpha.2",
+    "react": "18.x",
+    "react-dom": "18.x",
     "react-query": "3.39.1",
     "react-router-dom": "6.3.0",
-    "react-scripts": "2.0.3"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {},
   "scripts": {
